@@ -1,1 +1,1 @@
-# Мой kundalik
+# Мой kundalik — вариант main
